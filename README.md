@@ -14,7 +14,7 @@ Currently, I'm working on blockchain and always eager to learn and grow in the t
 - 🛠 **Tools & Technologies:** Git, Redis, Celery  
 
 ## 📬 Let's Connect!  
-- 📧 Email: j.2528840@gmail  
+- 📧 Email: j.2528840@gmail.com
 - 💬 Telegram: [(https://t.me/javad2528840)](https://t.me/javad2528840) 
  
 
