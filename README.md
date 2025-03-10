@@ -9,7 +9,7 @@ Currently, I'm working on blockchain and always eager to learn and grow in the t
 ## 🛠 Tech Stack  
 - 💻 **Programming Languages:** Python ,JavaScript(mid level), Rust(mid level)
 - ⚡ **Backend Frameworks:** Django, FastAPI, Flask, winston  
-- 🛢 **Databases:** PostgreSQL, MySQL, MongoDB, Neo4j
+- 🛢 **Databases:** PostgreSQL, MySQL, MongoDB, Neo4j, Sqlite
 - ☁ **Cloud & DevOps:** Docker 
 - 🛠 **Tools & Technologies:** Git, Redis, Celery  
 
