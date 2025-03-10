@@ -7,7 +7,7 @@ I have a **Master's degree in Information Technology**, and I'm passionate about
 Currently, I'm working on blockchain and always eager to learn and grow in the tech world!  
 
 ## 🛠 Tech Stack  
-- 💻 **Programming Languages:** Python ,JavaScript(mid level)
+- 💻 **Programming Languages:** Python ,JavaScript(mid level), Rust(mid level)
 - ⚡ **Backend Frameworks:** Django, FastAPI, Flask  
 - 🛢 **Databases:** PostgreSQL, MySQL, MongoDB, Neo4j
 - ☁ **Cloud & DevOps:** Docker 
