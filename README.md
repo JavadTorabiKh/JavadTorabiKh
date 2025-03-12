@@ -11,7 +11,7 @@ Currently, I'm working on blockchain and always eager to learn and grow in the t
 - ⚡ **Backend Frameworks:** Django, FastAPI, Flask, winston  
 - 🛢 **Databases:** PostgreSQL, MySQL, MongoDB, Neo4j, Sqlite
 - ☁ **Cloud & DevOps:** Docker 
-- 🛠 **Tools & Technologies:** Git, Redis, Celery, websockets  
+- 🛠 **Tools & Technologies:** Git, Redis, Celery, RabbitMQ, websockets  
 
 ## 📬 Let's Connect!  
 - 📧 Email: j.2528840@gmail.com
