@@ -10,7 +10,7 @@ Currently, I'm working on blockchain and always eager to learn and grow in the t
 - 💻 **Programming Languages:** Python ,JavaScript(mid level), Rust(mid level)
 - ⚡ **Backend Frameworks:** Django, FastAPI, Flask, winston  
 - 🛢 **Databases:** PostgreSQL, MySQL, MongoDB, Neo4j, Sqlite
-- ☁ **Cloud & DevOps:** VMware ESXi ,Docker 
+- ☁ **Cloud & DevOps:** VMware ESXi, Ansible, Docker 
 - 🛠 **Tools & Technologies:** Git, Redis, Celery, RabbitMQ, websockets  
 
 ## 📬 Let's Connect!  
