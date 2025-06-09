@@ -1,4 +1,4 @@
-# 👋 Hey there! I'm Javad Torabi  
+# 👋 Hey there! 
 
 ## 🚀 About Me  
 I'm a **Backend Developer** specialized in **Python** 🐍.  
