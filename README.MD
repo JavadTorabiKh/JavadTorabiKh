@@ -35,18 +35,7 @@ me = Developer()
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 ## 📈 GitHub Stats
-<div align="center">
-  <a href="https://github.com/javad-torabi">
-    <!-- Main Statistics -->
-    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=JavadTorabiKh&show_icons=true&theme=dracula&count_private=true&include_all_commits=true" />
-    
-    <!-- Most Used Languages -->
-    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jJavadTorabiKh&layout=compact&theme=dracula&langs_count=8&hide=html,css" />
-    
-    <!-- Partnership Policy -->
-    <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=JavadTorabiKh&theme=github-compact&hide_border=true&area=true" />
-  </a>
-</div>
+<div align="center"><a href="https://github.com/javad-torabi"><img height="165em" src="https://github-readme-stats.vercel.app/api?username=JavadTorabiKh&show_icons=true&theme=dracula&count_private=true&include_all_commits=true" /><img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jJavadTorabiKh&layout=compact&theme=dracula&langs_count=8&hide=html,css" /><img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=JavadTorabiKh&theme=github-compact&hide_border=true&area=true" /></a></div>
 
 
 ## 🌐 Let's Connect
