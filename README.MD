@@ -34,7 +34,7 @@ https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoC
 https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white
 
 ## 📈 GitHub Stats
-<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=j.2528840&show_icons=true&theme=radical&count_private=true" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=j.2528840&layout=compact&theme=radical" /> </div>
+<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=&show_icons=true&theme=radical&count_private=true" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=j.2528840&layout=compact&theme=radical" /> </div>
 
 ## 💻 Featured Projects
 <table> <tr> <td align="center"> <a href="https://github.com/JavadTorabiKh/DevOpsAnsible"> <img src="https://github.com/JavadTorabiKh/DevOpsAnsible/blob/main/images.jpeg" width="150px" alt="Project 1"/> <br /> <b>Project 1</b> </a> </td> <td align="center"> <a href="https://github.com/JavadTorabiKh/JTK_CryptoToken"> <img src="PROJECT_IMAGE" width="150px" alt="Project 2"/> <br /> <b>Project 2</b> </a> </td> </tr> </table>
