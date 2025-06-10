@@ -15,7 +15,6 @@ Currently, I'm working on blockchain and always eager to learn and grow in the t
 
 ## 📬 Let's Connect!  
 - 📧 Email: [javadtorabi462@gmail.com ](https://javadtorabi462@gmail.com ) 
-- 💬 Telegram: [@javad2528840](https://t.me/javad2528840) 
  
 
 ---
