@@ -31,7 +31,7 @@ me = Developer()
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Ansible](https://img.shields.io/badge/ansible-AE412D?style=for-the-badge&logo=ansible&logoColor=white)
+![Ansible](https://img.shields.io/badge/ansible-1E412D?style=for-the-badge&logo=ansible&logoColor=white)
 
 ## 📈 GitHub Stats
 <div align="center"><a href="https://github.com/JavadTorabiKh/"><img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JavadTorabiKh&layout=compact&theme=dracula&langs_count=8&hide=html,css" /> <img height="165em" src="https://github-readme-stats.vercel.app/api?username=JavadTorabiKh&show_icons=true&theme=dracula&count_private=true&include_all_commits=true" alt="GitHub Stats" /><img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=JavadTorabiKh&theme=github-compact&hide_border=true&area=true" /></a></div>
