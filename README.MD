@@ -1,8 +1,6 @@
 # 🌟 Welcome to My GitHub Universe!
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&width=435&lines=Backend+Developer;Python+Developer;Blockchain+Developer;Open-Source+Contributor" alt="Typing SVG" />
-</div>
+<div align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&width=435&lines=Backend+Developer;Python+Developer;Blockchain+Developer;Open-Source+Contributor" alt="Typing SVG" /></div>
 
 ## 🚀 About Me
 
