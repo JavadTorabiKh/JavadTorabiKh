@@ -35,7 +35,18 @@ me = Developer()
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 ## 📈 GitHub Stats
-<div align="center"><a href="https://github.com/JavadTorabiKh"><img height="165em" src="https://github-readme-stats.vercel.app/api?username=JavadTorabiKh&show_icons=true&theme=dracula&count_private=true&include_all_commits=true" /><img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JavadTorabiKh&layout=compact&theme=dracula&langs_count=8&hide=html,css" /><img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=JavadTorabiKh&theme=github-compact&hide_border=true&area=true" /></a></div>
+<div align="center">
+  <a href="https://github.com/JavadTorabiKh">
+    <!-- آمار اصلی -->
+    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=JavadTorabiKh&show_icons=true&theme=dracula&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+    
+    <!-- پرکاربردترین زبان‌ها -->
+    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JavadTorabiKh&layout=compact&theme=dracula&langs_count=8&hide=html,css" alt="Top Languages" />
+    
+    <!-- خط مشی مشارکت -->
+    <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=JavadTorabiKh&theme=github-compact&hide_border=true&area=true" alt="Activity Graph" />
+  </a>
+</div>
 
 
 ## 🌐 Let's Connect
