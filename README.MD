@@ -35,7 +35,7 @@ me = Developer()
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 ## 📈 GitHub Stats
-<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JavadTorabiKh &show_icons=true&theme=radical&count_private=true" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=j.2528840&layout=compact&theme=radical" /> </div>
+<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JavadTorabiKh &show_icons=true&theme=radical&count_private=true" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JavadTorabiKh &layout=compact&theme=radical" /> </div>
 
 
 ## 🌐 Let's Connect
