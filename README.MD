@@ -1,7 +1,7 @@
 # 🌟 Welcome to My GitHub Universe!
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&width=435&lines=Backend+Developer;Python+Enthusiast;Blockchain+Explorer;Open-Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&width=435&lines=Backend+Developer;Python+Developer;Blockchain+Developer;Open-Source+Contributor" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
@@ -19,7 +19,9 @@ me = Developer()
 ```
 
 ## 🛠️ Tech Stack & Tools
+
 ### 🔧 Core Technologies
+
 https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
 https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white
 https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi
@@ -32,7 +34,7 @@ https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoC
 https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white
 
 ## 📈 GitHub Stats
-<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&count_private=true" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" /> </div>
+<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=j.2528840&show_icons=true&theme=radical&count_private=true" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=j.2528840&layout=compact&theme=radical" /> </div>
 
 ## 💻 Featured Projects
 <table> <tr> <td align="center"> <a href="PROJECT_LINK"> <img src="PROJECT_IMAGE" width="150px" alt="Project 1"/> <br /> <b>Project 1</b> </a> </td> <td align="center"> <a href="PROJECT_LINK"> <img src="PROJECT_IMAGE" width="150px" alt="Project 2"/> <br /> <b>Project 2</b> </a> </td> </tr> </table>
