@@ -36,8 +36,6 @@ https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoCol
 ## 📈 GitHub Stats
 <div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=&show_icons=true&theme=radical&count_private=true" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=j.2528840&layout=compact&theme=radical" /> </div>
 
-## 💻 Featured Projects
-<table> <tr> <td align="center"> <a href="https://github.com/JavadTorabiKh/DevOpsAnsible"> <img src="https://github.com/JavadTorabiKh/DevOpsAnsible/blob/main/images.jpeg" width="150px" alt="Project 1"/> <br /> <b>Project 1</b> </a> </td> <td align="center"> <a href="https://github.com/JavadTorabiKh/JTK_CryptoToken"> <img src="PROJECT_IMAGE" width="150px" alt="Project 2"/> <br /> <b>Project 2</b> </a> </td> </tr> </table>
 
 ## 🌐 Let's Connect
 <div align="center"> <a href="https://linkedin.com/in/YOUR_PROFILE"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:javadtorabi462@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://twitter.com/YOUR_HANDLE"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /> </a> </div><div align="center"> <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=blue&style=flat" alt="Profile views" /> </div>
