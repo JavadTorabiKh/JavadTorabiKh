@@ -57,7 +57,7 @@ func main() {
 </a>
 
 <a href="https://github.com/JavadTorabiKh/">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JavadTorabiKh&layout=compact&theme=radical&hide_border=true&langs_count=10&hide=html,css,scss&exclude_repo=compiler-design,linux-kernel" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JavadTorabiKh&layout=compact&theme=radical&hide_border=false&langs_count=10&hide=scss&exclude_repo=compiler-design" />
 </a>
 
 <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=JavadTorabiKh&theme=github-dark&hide_border=true&area=true&custom_title=My%20Daily%20Development%20Activity" />
@@ -67,10 +67,10 @@ func main() {
 ## 🌐 Let's Connect
 <div align="center"> <a href="https://www.linkedin.com/in/javad-torabi-52b25a361"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:javadtorabi462@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </div><div align="center"> </div>
 
-## 🎯 My Goals 2024
+## 🎯 My Goals 2025
 - 🚀 **Master Go concurrency patterns** for high-performance systems
 - 📚 **Contribute to Go open-source projects** 
-- 🔗 **Build blockchain infrastructure** with Go and Rust
+- 🔗 **Build blockchain infrastructure** with Go and python
 - ⚡ **Create 10x faster APIs** by leveraging Go's performance
 - 🎯 **Bridge Python productivity with Go performance** in hybrid architectures
 ---
