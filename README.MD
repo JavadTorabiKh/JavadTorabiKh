@@ -51,18 +51,15 @@ func main() {
 
 <div align="center">
 
-### 🚀 Coding Journey
 <a href="https://github.com/JavadTorabiKh/">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=JavadTorabiKh&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&hide_title=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=JavadTorabiKh&theme=radical&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=JavadTorabiKh&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&hide_title=false" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=JavadTorabiKh&theme=radical&hide_border=false" />
 </a>
 
-### 💻 Language Power
 <a href="https://github.com/JavadTorabiKh/">
   <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JavadTorabiKh&layout=compact&theme=radical&hide_border=true&langs_count=8&hide=html,css,scss&exclude_repo=compiler-design,linux-kernel" />
 </a>
 
-### 📊 Activity Graph
 <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=JavadTorabiKh&theme=github-dark&hide_border=true&area=true&custom_title=My%20Daily%20Development%20Activity" />
 
 </div>
