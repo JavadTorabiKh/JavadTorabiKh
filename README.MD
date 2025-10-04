@@ -1,6 +1,6 @@
 # 🌟 Welcome to My GitHub Universe!
 
-<div align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&width=435&lines=Backend+Developer;Python+Developer;Go+Developer;Blockchain+Developer;Open-Source+Contributor" alt="Typing SVG" /></div>
+<div align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&width=435&lines=Backend+Developer;Python+Developer;Blockchain+Developer;Open-Source+Contributor" alt="Typing SVG" /></div>
 
 ## 🚀 About Me
 ```go
@@ -46,20 +46,26 @@ func main() {
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Ansible](https://img.shields.io/badge/ansible-1E412D?style=for-the-badge&logo=ansible&logoColor=white)
 
-### ⚡ Other Skills
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Ansible](https://img.shields.io/badge/ansible-1E412D?style=for-the-badge&logo=ansible&logoColor=white)
 
 ## 📈 GitHub Stats
+
 <div align="center">
+
+<!-- Stats Row -->
 <a href="https://github.com/JavadTorabiKh/">
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JavadTorabiKh&layout=compact&theme=dracula&langs_count=8&hide=html,css&hide_title=true" />
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=JavadTorabiKh&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&hide_title=true" />
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=JavadTorabiKh&theme=github-compact&hide_border=true&area=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=JavadTorabiKh&show_icons=true&theme=omni&hide_border=true&include_all_commits=true&count_private=true&show=reviews,discussions_started,discussions_answered" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=JavadTorabiKh&theme=omni&hide_border=true&fire=DD2727&ring=DD2727&currStreakLabel=DD2727" />
 </a>
+
+<!-- Languages & Trophies -->
+<a href="https://github.com/JavadTorabiKh/">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JavadTorabiKh&layout=compact&theme=omni&hide_border=true&langs_count=6&hide=html,css,scss,jupyter%20notebook&exclude_repo=university-projects" />
+  <img width="55%" src="https://github-profile-trophy.vercel.app/?username=JavadTorabiKh&theme=onestar&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15&rank=-C,-B" />
+</a>
+
+<!-- Activity Graph -->
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=JavadTorabiKh&theme=github&hide_border=true&area=true&custom_title=Weekly%20Development%20Activity&point=00ff88&line=00ccff&area_color=00ff88" />
+
 </div>
 
 ## 🌐 Let's Connect
