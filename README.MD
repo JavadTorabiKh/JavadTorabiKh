@@ -51,20 +51,16 @@ func main() {
 
 <div align="center">
 
-<!-- Stats Row -->
+<!-- Stats Cards -->
 <a href="https://github.com/JavadTorabiKh/">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=JavadTorabiKh&show_icons=true&theme=omni&hide_border=true&include_all_commits=true&count_private=true&show=reviews,discussions_started,discussions_answered" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=JavadTorabiKh&theme=omni&hide_border=true&fire=DD2727&ring=DD2727&currStreakLabel=DD2727" />
+  <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=JavadTorabiKh&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_title=true&line_height=24" />
+  <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JavadTorabiKh&layout=compact&theme=algolia&langs_count=8&hide=html,css,scss&hide_title=true" />
 </a>
 
-<!-- Languages & Trophies -->
+<!-- Streak Stats -->
 <a href="https://github.com/JavadTorabiKh/">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JavadTorabiKh&layout=compact&theme=omni&hide_border=true&langs_count=6&hide=html,css,scss,jupyter%20notebook&exclude_repo=university-projects" />
-  <img width="55%" src="https://github-profile-trophy.vercel.app/?username=JavadTorabiKh&theme=onestar&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15&rank=-C,-B" />
+  <img width="50%" src="https://streak-stats.demolab.com?user=JavadTorabiKh&theme=blue-green&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
 </a>
-
-<!-- Activity Graph -->
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=JavadTorabiKh&theme=github&hide_border=true&area=true&custom_title=Weekly%20Development%20Activity&point=00ff88&line=00ccff&area_color=00ff88" />
 
 </div>
 
