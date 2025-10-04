@@ -51,16 +51,19 @@ func main() {
 
 <div align="center">
 
-<!-- Stats Cards -->
+### 🚀 Coding Journey
 <a href="https://github.com/JavadTorabiKh/">
-  <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=JavadTorabiKh&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_title=true&line_height=24" />
-  <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JavadTorabiKh&layout=compact&theme=algolia&langs_count=8&hide=html,css,scss&hide_title=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=JavadTorabiKh&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&hide_title=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=JavadTorabiKh&theme=radical&hide_border=true" />
 </a>
 
-<!-- Streak Stats -->
+### 💻 Language Power
 <a href="https://github.com/JavadTorabiKh/">
-  <img width="50%" src="https://streak-stats.demolab.com?user=JavadTorabiKh&theme=blue-green&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JavadTorabiKh&layout=compact&theme=radical&hide_border=true&langs_count=8&hide=html,css,scss&exclude_repo=compiler-design,linux-kernel" />
 </a>
+
+### 📊 Activity Graph
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=JavadTorabiKh&theme=github-dark&hide_border=true&area=true&custom_title=My%20Daily%20Development%20Activity" />
 
 </div>
 
