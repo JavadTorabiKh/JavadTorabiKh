@@ -67,12 +67,7 @@ func main() {
 ## 🌐 Let's Connect
 <div align="center"> <a href="https://www.linkedin.com/in/javad-torabi-52b25a361"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:javadtorabi462@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </div><div align="center"> </div>
 
-## 🎯 My Goals 2025
-- 🚀 **Master Go concurrency patterns** for high-performance systems
-- 📚 **Contribute to Go open-source projects** 
-- 🔗 **Build blockchain infrastructure** with Go and python
-- ⚡ **Create 10x faster APIs** by leveraging Go's performance
-- 🎯 **Bridge Python productivity with Go performance** in hybrid architectures
+
 ---
 
 <div align="center">
