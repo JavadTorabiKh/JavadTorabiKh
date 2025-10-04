@@ -56,9 +56,20 @@ func main() {
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=JavadTorabiKh&theme=radical&hide_border=false" />
 </a>
 
-<a href="https://github.com/JavadTorabiKh/">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JavadTorabiKh&layout=compact&theme=radical&hide_border=false&langs_count=10&hide=scss&exclude_repo=compiler-design" />
-</a>
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://github.com/JavadTorabiKh/">
+        <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JavadTorabiKh&layout=compact&theme=radical&hide_border=true&langs_count=4&hide=scss&card_width=250" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/JavadTorabiKh/">
+        <img width="100%" src="https://github-profile-trophy.vercel.app/?username=JavadTorabiKh&theme=radical&no-frame=true&no-bg=true&column=2&margin-w=5&margin-h=5&rank=-C" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=JavadTorabiKh&theme=github-dark&hide_border=true&area=true&custom_title=My%20Daily%20Development%20Activity" />
 
