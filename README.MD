@@ -57,7 +57,7 @@ func main() {
 </a>
 
 <a href="https://github.com/JavadTorabiKh/">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JavadTorabiKh&layout=compact&theme=radical&hide_border=true&langs_count=8&hide=html,css,scss&exclude_repo=compiler-design,linux-kernel" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JavadTorabiKh&layout=compact&theme=radical&hide_border=true&langs_count=10&hide=html,css,scss&exclude_repo=compiler-design,linux-kernel" />
 </a>
 
 <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=JavadTorabiKh&theme=github-dark&hide_border=true&area=true&custom_title=My%20Daily%20Development%20Activity" />
