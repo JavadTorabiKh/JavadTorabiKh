@@ -1,8 +1,8 @@
-# 🌟 Welcome to My GitHub Universe!
+## 🌟 Welcome to My GitHub Universe!
 
 <div align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&width=435&lines=Backend+Developer;Python+Developer;Blockchain+Developer;Open-Source+Contributor" alt="Typing SVG" /></div>
 
-## 🚀 About Me
+### 🚀 About Me
 ```go
 package main
 
@@ -27,9 +27,9 @@ func main() {
 }
 ```
 
-## 🛠️ Tech Stack & Tools
+### 🛠️ Tech Stack & Tools
 
-### 🔧 Core Technologies
+#### 🔧 Core Technologies
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
@@ -39,7 +39,7 @@ func main() {
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### ⚡ Performance & Infrastructure
+#### ⚡ Performance & Infrastructure
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
@@ -47,7 +47,7 @@ func main() {
 ![Ansible](https://img.shields.io/badge/ansible-1E412D?style=for-the-badge&logo=ansible&logoColor=white)
 
 
-## 📈 GitHub Stats
+### 📈 GitHub Stats
 
 <div align="center">
 
@@ -64,7 +64,7 @@ func main() {
 
 </div>
 
-## 🌐 Let's Connect
+### 🌐 Let's Connect
 <div align="center"> <a href="https://www.linkedin.com/in/javad-torabi-52b25a361"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:javadtorabi462@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </div><div align="center"> </div>
 
 
