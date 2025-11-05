@@ -46,7 +46,6 @@ func main() {
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Ansible](https://img.shields.io/badge/ansible-1E412D?style=for-the-badge&logo=ansible&logoColor=white)
 
-
 ### 📈 GitHub Stats
 
 <div align="center">
