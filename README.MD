@@ -50,10 +50,10 @@ func main() {
 
 <div align="center">
 
-<a href="https://github.com/JavadTorabiKh/">
+<div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=JavadTorabiKh&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&hide_title=false" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=JavadTorabiKh&theme=radical&hide_border=true" />
-</a>
+</div>
 
 <a href="https://github.com/JavadTorabiKh/">
   <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JavadTorabiKh&layout=compact&theme=radical&hide_border=true&langs_count=8&hide=scss,css,html,jupyter%20notebook&exclude_repo=compiler-design,linux-kernel,university-projects" />
