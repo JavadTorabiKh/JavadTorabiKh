@@ -51,15 +51,15 @@ func main() {
 <div align="center">
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=JavadTorabiKh&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&hide_title=false" />
+  <img width="49%" src="https://github-readme-stats-gamma-pearl-94.vercel.app/api?username=JavadTorabiKh&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&hide_title=false" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=JavadTorabiKh&theme=radical&hide_border=true" />
 </div>
 
 <a href="https://github.com/JavadTorabiKh/">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JavadTorabiKh&layout=compact&theme=radical&hide_border=true&langs_count=8&hide=scss,css,html,jupyter%20notebook&exclude_repo=compiler-design,linux-kernel,university-projects" />
+  <img width="45%" src="https://github-readme-stats-gamma-pearl-94.vercel.app/api/top-langs/?username=JavadTorabiKh&layout=compact&theme=radical&hide_border=true&langs_count=8&hide=scss,css,html,jupyter%20notebook&exclude_repo=compiler-design,linux-kernel,university-projects" />
 </a>
 
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=JavadTorabiKh&theme=github-dark&hide_border=true&area=true&custom_title=My%20Daily%20Development%20Activity" />
+<img width="90%" src="https://github-readme-stats-gamma-pearl-94.vercel.app/graph?username=JavadTorabiKh&theme=github-dark&hide_border=true&area=true&custom_title=My%20Daily%20Development%20Activity" />
 
 </div>
 
