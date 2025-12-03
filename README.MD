@@ -1,14 +1,14 @@
-# Hi there
+# Hi there 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=4000&pause=1000&color=22D3EE&center=true&width=650&lines=Backend+Engineer;Go+%7C+Python+%7C+Rust;Blockchain+Enthusiast;Open+Source+Contributor;Concurrency+%26+Performance+Addict" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=4000&pause=1000&color=0EA5E9&center=true&width=650&lines=Backend+Engineer;Go+%7C+Python+%7C+Rust;Blockchain+Enthusiast;Open+Source+Contributor;Concurrency+%26+Performance+Addict" />
 </div>
 
 ### 🚀 About Me
 ```go
 package main
 
-type Javad struct {
+type Developer struct {
     Name         string   `json:"name"`
     Pronouns     string   `json:"pronouns"`
     Role         string   `json:"role"`
@@ -20,7 +20,7 @@ type Javad struct {
 }
 
 func main() {
-    me := Javad{
+    javad := Developer{
         Name:      "Javad Torabi",
         Pronouns:  "He/Him",
         Role:      "Backend Engineer",
@@ -31,69 +31,100 @@ func main() {
         Passion:   "Scalable systems • Blockchain • Open Source",
     }
     
-    // One goroutine at a time
+    // Writing efficient concurrent code
 }
 ```
 
 
-### 🛠️ Tech Stack
-### 🔧 Tech Stack & Tools
+---
 
+### 🛠️ Tech Stack
+
+```markdown
 <div align="center">
 
 **Languages & Frameworks**  
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=ffffff)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Gin](https://img.shields.io/badge/Gin-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Gin](https://img.shields.io/badge/Gin-0088CC?style=for-the-badge&logo=go&logoColor=white)
 
 **Databases & Caching**  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 
-**DevOps & Infrastructure**  
+**DevOps & Cloud**  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
+```
 
 ### 📈 GitHub Stats
 
 <div align="center">
 
-<img height="195" src="https://github-readme-stats-gamma-pearl-94.vercel.app/api?username=JavadTorabiKh&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&hide=stars,issues&rank_icon=github" />
-<img height="195" src="https://github-readme-streak-stats.herokuapp.com/?user=JavadTorabiKh&theme=tokyonight&hide_border=true&fire=EB144C&ring=22D3EE&currStreakLabel=22D3EE" />
+<!-- Main Stats -->
+
+<a href="https://github.com/JavadTorabiKh">
+  <img height="195" src="https://github-readme-stats.vercel.app/api?username=JavadTorabiKh&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=0ea5e9&icon_color=0ea5e9&text_color=c9d1d9&hide=stars,issues&count_private=true" />
+</a>
+
+<a href="https://github.com/JavadTorabiKh">
+  <img height="195" src="https://github-readme-streak-stats.herokuapp.com/?user=JavadTorabiKh&theme=dark&hide_border=true&background=0d1117&fire=0ea5e9&ring=0ea5e9&currStreakLabel=0ea5e9" />
+</a>
 
 <br><br>
 
-<img width="56%" src="https://github-readme-stats-git-main-javad-torabis-projects.vercel.app/api/top-langs/?username=JavadTorabiKh&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&exclude_repo=university-projects,compiler-design,linux-kernel&hide=html,css,scss,jupyter%20notebook" />
+<!-- Top Languages -->
+
+<a href="https://github.com/JavadTorabiKh">
+  <img width="56%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JavadTorabiKh&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=0ea5e9&text_color=c9d1d9&langs_count=8&exclude_repo=university-projects,compiler-design,linux-kernel" />
+</a>
 
 <br><br>
 
-<img width="95%" src="https://github-readme-stats-6p660mwpk-javad-torabis-projects.vercel.app/graph?username=JavadTorabiKh&theme=tokyonight&hide_border=true&area=true&custom_title=Contribution+Activity+Over+Time&point=22D3EE" />
+<!-- Activity Graph -->
+
+<a href="https://github.com/JavadTorabiKh">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=JavadTorabiKh&theme=github-dark&hide_border=true&bg_color=0d1117&color=c9d1d9&line=0ea5e9&point=0ea5e9&area=true&area_color=0ea5e9" />
+</a>
 
 </div>
 
-### ---
+---
 
 ### 🌐 Let's Connect
 
 <div align="center">
+  
   <a href="https://www.linkedin.com/in/javad-torabi-52b25a361">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:javadtorabi462@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+  <a href="https://t.me/yourusername">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  <a href="https://leetcode.com/yourusername">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+
 </div>
 
+<br>
+
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=JavadTorabiKh&label=Profile+Views&color=22D3EE&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=JavadTorabiKh&label=Profile%20Views&color=0EA5E9&style=flat-square" />
   <br><br>
-  <b>Feel free to explore my repositories • Star anything you find useful!</b>
+  <b>🚀 Feel free to explore my repositories • Star anything you find useful!</b>
 </div>
