@@ -27,7 +27,7 @@ func main() {
         Location:  "Iran",
         Education: "MSc in Information Technology",
         Languages: []string{"Go", "Python", "Rust", "JavaScript/TypeScript"},
-        Currently: "Building high-performance microservices in Go",
+        Currently: "Building high-performance services",
         Passion:   "Scalable systems • Blockchain • Open Source",
     }
     
