@@ -79,9 +79,13 @@ func main() {
   <img height="195" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=JavadTorabiKh&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=0ea5e9&icon_color=0ea5e9&text_color=c9d1d9&hide=stars,issues&count_private=true" />
 </a>
 
+<br>
+
 <a href="https://github.com/JavadTorabiKh">
   <img height="195" src="https://github-readme-streak-stats.herokuapp.com/?user=JavadTorabiKh&theme=dark&hide_border=true&background=0d1117&fire=0ea5e9&ring=0ea5e9&currStreakLabel=0ea5e9" />
 </a>
+
+<br>
 
 <a href="https://github.com/JavadTorabiKh">
   <img src="https://github-profile-trophy.vercel.app/?username=JavadTorabiKh&theme=dark" />
