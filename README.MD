@@ -76,7 +76,7 @@ func main() {
 <!-- Main Stats -->
 
 <a href="https://github.com/JavadTorabiKh">
-  <img height="195" src="https://github-readme-stats.vercel.app/api?username=JavadTorabiKh&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=0ea5e9&icon_color=0ea5e9&text_color=c9d1d9&hide=stars,issues&count_private=true" />
+  <img height="195" src="https://github-readme-stats-gamma-pearl-javadtorabi.vercel.app/api?username=JavadTorabiKh&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=0ea5e9&icon_color=0ea5e9&text_color=c9d1d9&hide=stars,issues&count_private=true" />
 </a>
 
 <a href="https://github.com/JavadTorabiKh">
