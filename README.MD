@@ -83,6 +83,10 @@ func main() {
   <img height="195" src="https://github-readme-streak-stats.herokuapp.com/?user=JavadTorabiKh&theme=dark&hide_border=true&background=0d1117&fire=0ea5e9&ring=0ea5e9&currStreakLabel=0ea5e9" />
 </a>
 
+<a href="https://github.com/JavadTorabiKh">
+  <img src="https://github-profile-trophy.vercel.app/?username=JavadTorabiKh&theme=dark" />
+</a>
+
 <br><br>
 
 <!-- Top Languages -->
