@@ -89,13 +89,6 @@ func main() {
 
 <br><br>
 
-<!-- Top Languages -->
-
-<a href="https://github.com/JavadTorabiKh">
-  <img width="56%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JavadTorabiKh&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=0ea5e9&text_color=c9d1d9&langs_count=8&exclude_repo=university-projects,compiler-design,linux-kernel" />
-</a>
-
-<br><br>
 
 <!-- Activity Graph -->
 
