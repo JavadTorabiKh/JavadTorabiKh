@@ -80,13 +80,6 @@ func main() {
 
 <br>
 
-<!-- Top Languages -->
-<a href="https://github.com/JavadTorabiKh">
-  <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JavadTorabiKh&layout=compact&theme=dark&hide_border=true" />
-</a>
-
-<br>
-
 <!-- GitHub Streak Stats -->
 <a href="https://github.com/JavadTorabiKh">
   <img height="195" src="https://streak-stats.demolab.com?user=JavadTorabiKh&theme=dark&hide_border=true" />
