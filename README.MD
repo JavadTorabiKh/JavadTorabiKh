@@ -81,14 +81,23 @@ func main() {
 
 <br>
 
+<!-- GitHub Stats -->
 <a href="https://github.com/JavadTorabiKh">
-  <img height="195" src="https://github-readme-streak-stats.herokuapp.com/?user=JavadTorabiKh&theme=dark&hide_border=true&background=0d1117&fire=0ea5e9&ring=0ea5e9&currStreakLabel=0ea5e9" />
+  <img height="195" src="https://github-readme-stats.vercel.app/api?username=JavadTorabiKh&show_icons=true&theme=dark&hide_border=true" />
 </a>
 
 <br>
 
+<!-- Top Languages -->
 <a href="https://github.com/JavadTorabiKh">
-  <img src="https://github-profile-trophy.vercel.app/?username=JavadTorabiKh&theme=dark" />
+  <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JavadTorabiKh&layout=compact&theme=dark&hide_border=true" />
+</a>
+
+<br>
+
+<!-- GitHub Streak Stats -->
+<a href="https://github.com/JavadTorabiKh">
+  <img height="195" src="https://streak-stats.demolab.com?user=JavadTorabiKh&theme=dark&hide_border=true" />
 </a>
 
 <br>
