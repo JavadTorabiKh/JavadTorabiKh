@@ -73,25 +73,30 @@ func main() {
 
 <div align="center">
 
-<!-- GitHub Stats -->
+<!-- GitHub Stats with Caching -->
 <a href="https://github.com/JavadTorabiKh">
-  <img height="195" src="https://github-readme-stats.vercel.app/api?username=JavadTorabiKh&show_icons=true&theme=dark&hide_border=true" />
+  <img height="195" src="https://github-readme-stats.vercel.app/api?username=JavadTorabiKh&show_icons=true&theme=dark&hide_border=true&cache_seconds=86400" />
 </a>
 
 <br>
 
-<!-- GitHub Streak Stats -->
+<!-- GitHub Streak Stats with Caching -->
 <a href="https://github.com/JavadTorabiKh">
-  <img height="195" src="https://streak-stats.demolab.com?user=JavadTorabiKh&theme=dark&hide_border=true" />
+  <img height="195" src="https://streak-stats.demolab.com?user=JavadTorabiKh&theme=dark&hide_border=true&cache_seconds=86400" />
 </a>
 
 <br>
 
-
-<!-- Activity Graph -->
-
+<!-- Top Languages with Caching -->
 <a href="https://github.com/JavadTorabiKh">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=JavadTorabiKh&theme=github-dark&hide_border=true&bg_color=0d1117&color=c9d1d9&line=0ea5e9&point=0ea5e9&area=true&area_color=0ea5e9" />
+  <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JavadTorabiKh&layout=compact&theme=dark&hide_border=true&cache_seconds=86400" />
+</a>
+
+<br>
+
+<!-- Activity Graph with Caching -->
+<a href="https://github.com/JavadTorabiKh">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=JavadTorabiKh&theme=github-dark&hide_border=true&bg_color=0d1117&color=c9d1d9&line=0ea5e9&point=0ea5e9&area=true&area_color=0ea5e9&cache_seconds=86400" />
 </a>
 
 </div>
