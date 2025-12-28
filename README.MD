@@ -73,19 +73,16 @@ func main() {
 
 <div align="center">
 
-<!-- Stats با کش 48 ساعته -->
 <a href="https://github.com/JavadTorabiKh">
-  <img height="195" src="https://github-readme-stats.vercel.app/api?username=JavadTorabiKh&show_icons=true&theme=dark&hide_border=true&cache_seconds=172800" />
+  <img height="195" src="https://github-readme-stats.vercel.app/api?username=JavadTorabiKh&show_icons=true&theme=dark&hide_border=true&count_private=true&cache_seconds=172800" />
 </a>
 <br>
-<!-- Streak با کش 48 ساعته -->
 <a href="https://github.com/JavadTorabiKh">
   <img height="195" src="https://streak-stats.demolab.com?user=JavadTorabiKh&theme=dark&hide_border=true&cache_seconds=172800" />
 </a>
 
 <br>
 
-<!-- Activity Graph با کش 24 ساعته -->
 <a href="https://github.com/JavadTorabiKh">
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=JavadTorabiKh&theme=github-dark&hide_border=true&cache_seconds=86400&disable_animation=true" />
 </a>
