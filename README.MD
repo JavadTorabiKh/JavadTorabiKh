@@ -74,11 +74,11 @@ func main() {
 <div align="center">
 
 <a href="https://github.com/JavadTorabiKh">
-  <img height="195" src="https://github-readme-stats.vercel.app/api?username=JavadTorabiKh&show_icons=true&theme=dark&hide_border=true&count_private=true" />
+  <img height="195" src="https://raw.githubusercontent.com/JavadTorabiKh/JavadTorabiKh/main/assets/stats.svg" alt="GitHub Stats" />
 </a>
 <br>
 <a href="https://github.com/JavadTorabiKh">
-  <img height="195" src="https://streak-stats.demolab.com?user=JavadTorabiKh&theme=dark&hide_border=true" />
+  <img height="195" src="https://raw.githubusercontent.com/JavadTorabiKh/JavadTorabiKh/main/assets/streak.svg" alt="GitHub Streak" />
 </a>
 
 <br>
