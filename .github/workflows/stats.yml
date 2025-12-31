@@ -1,0 +1,47 @@
+name: Update Stats
+on:
+  schedule:
+    - cron: '0 12 * * *'  # هر روز ساعت 12 ظهر
+  workflow_dispatch:  # اجازه اجرای دستی
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          
+      - name: Generate GitHub Stats SVG
+        run: |
+          curl -s "https://github-readme-stats.vercel.app/api?username=JavadTorabiKh&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" -o stats.svg
+          
+      - name: Generate Streak Stats SVG
+        run: |
+          curl -s "https://streak-stats.demolab.com?user=JavadTorabiKh&theme=dark&hide_border=true&background=0D1117" -o streak.svg
+          
+      - name: Create assets folder if not exists
+        run: mkdir -p assets
+        
+      - name: Move files to assets
+        run: |
+          mv stats.svg assets/
+          mv streak.svg assets/
+          
+      - name: Commit and push if changed
+        run: |
+          git config --global user.name "GitHub Action"
+          git config --global user.email "action@github.com"
+          git add assets/
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "📊 Update GitHub stats [$(date +'%Y-%m-%d')]"
+            git push
+          fi
