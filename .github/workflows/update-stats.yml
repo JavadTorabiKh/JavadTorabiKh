@@ -1,0 +1,29 @@
+name: Update GitHub Stats
+on:
+  schedule:
+    - cron: '0 0 * * *'  
+  workflow_dispatch:  
+  push:
+    branches: [ main ]
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      
+      - name: Generate Stats Cards
+        uses: moistnz/readme-stats@main
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          username: JavadTorabiKh
+          stats_path: "stats/stats.svg"
+          streak_path: "stats/streak.svg"
+          
+      - name: Commit and Push
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add stats/
+          git commit -m "Update stats" || echo "No changes to commit"
+          git push
