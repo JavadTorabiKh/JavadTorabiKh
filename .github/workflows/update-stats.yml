@@ -8,6 +8,9 @@ on:
   push:
     branches: [ main ]
 
+permissions:
+  contents: write  # این خط اضافه شده
+
 jobs:
   update-stats:
     runs-on: ubuntu-latest
@@ -16,10 +19,13 @@ jobs:
     - name: Checkout repository
       uses: actions/checkout@v3
       with:
-        token: ${{ secrets.GITHUB_TOKEN }}
+        persist-credentials: true  # این خط اضافه شده
 
     - name: Download GitHub Stats
       run: |
+        # ایجاد پوشه assets اگر وجود ندارد
+        mkdir -p assets
+        
         # دانلود آمار GitHub
         curl -s -o assets/stats.svg "https://github-readme-stats.vercel.app/api?username=JavadTorabiKh&show_icons=true&theme=radical&include_all_commits=true"
         
@@ -28,11 +34,13 @@ jobs:
         
         # بررسی موفقیت‌آمیز بودن دانلود
         if [ ! -s assets/stats.svg ]; then
-          echo "Failed to download stats.svg, using previous version"
+          echo "Failed to download stats.svg"
+          exit 0  # خطا را نادیده بگیر
         fi
         
         if [ ! -s assets/streak.svg ]; then
-          echo "Failed to download streak.svg, using previous version"
+          echo "Failed to download streak.svg"
+          exit 0  # خطا را نادیده بگیر
         fi
 
     - name: Commit and Push if changes
@@ -40,5 +48,11 @@ jobs:
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
         git add assets/
-        git diff --quiet && git diff --staged --quiet || git commit -m "Update GitHub stats - $(date)"
-        git push
+        
+        # بررسی تغییرات
+        if git diff-index --quiet HEAD --; then
+          echo "No changes to commit"
+        else
+          git commit -m "📊 Auto-update GitHub stats - $(date +'%Y-%m-%d %H:%M:%S')"
+          git push
+        fi
