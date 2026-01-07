@@ -74,13 +74,18 @@ func main() {
 <div align="center">
 
 <a href="https://github.com/JavadTorabiKh">
-  <img height="195" src="https://raw.githubusercontent.com/JavadTorabiKh/JavadTorabiKh/main/assets/stats.svg" alt="GitHub Stats" />
+  <img height="195" src="https://github-readme-stats.vercel.app/api?username=JavadTorabiKh&show_icons=true&theme=radical&cache_seconds=43200"
+       onerror="this.onerror=null; this.src='https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=JavadTorabiKh&show_icons=true&theme=radical&cache_seconds=43200';"
+       alt="GitHub Stats" />
 </a>
 <br>
 <a href="https://github.com/JavadTorabiKh">
-  <img height="195" src="https://raw.githubusercontent.com/JavadTorabiKh/JavadTorabiKh/main/assets/streak.svg" alt="GitHub Streak" />
+  <img height="195" src="https://streak-stats.demolab.com/?user=JavadTorabiKh&theme=radical&cache_seconds=43200"
+       onerror="this.onerror=null; this.src='https://github-readme-streak-stats.herokuapp.com/?user=JavadTorabiKh&theme=radical&cache_seconds=43200';"
+       alt="GitHub Streak" />
 </a>
 
+</div>
 <br>
 
 <a href="https://github.com/JavadTorabiKh">
