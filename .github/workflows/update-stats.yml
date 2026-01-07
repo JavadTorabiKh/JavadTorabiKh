@@ -1,29 +1,44 @@
 name: Update GitHub Stats
+
 on:
   schedule:
-    - cron: '0 0 * * *'  
-  workflow_dispatch:  
+    # هر 12 ساعت اجرا شود
+    - cron: '0 */12 * * *'
+  workflow_dispatch:  # امکان اجرای دستی
   push:
     branches: [ main ]
 
 jobs:
   update-stats:
     runs-on: ubuntu-latest
+    
     steps:
-      - uses: actions/checkout@v3
-      
-      - name: Generate Stats Cards
-        uses: moistnz/readme-stats@main
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          username: JavadTorabiKh
-          stats_path: "stats/stats.svg"
-          streak_path: "stats/streak.svg"
-          
-      - name: Commit and Push
-        run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git add stats/
-          git commit -m "Update stats" || echo "No changes to commit"
-          git push
+    - name: Checkout repository
+      uses: actions/checkout@v3
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+
+    - name: Download GitHub Stats
+      run: |
+        # دانلود آمار GitHub
+        curl -s -o assets/stats.svg "https://github-readme-stats.vercel.app/api?username=JavadTorabiKh&show_icons=true&theme=radical&include_all_commits=true"
+        
+        # دانلود Streak Stats
+        curl -s -o assets/streak.svg "https://github-readme-streak-stats.herokuapp.com/?user=JavadTorabiKh&theme=radical"
+        
+        # بررسی موفقیت‌آمیز بودن دانلود
+        if [ ! -s assets/stats.svg ]; then
+          echo "Failed to download stats.svg, using previous version"
+        fi
+        
+        if [ ! -s assets/streak.svg ]; then
+          echo "Failed to download streak.svg, using previous version"
+        fi
+
+    - name: Commit and Push if changes
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add assets/
+        git diff --quiet && git diff --staged --quiet || git commit -m "Update GitHub stats - $(date)"
+        git push
