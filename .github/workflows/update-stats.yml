@@ -2,14 +2,14 @@ name: Update GitHub Stats
 
 on:
   schedule:
-    # هر 12 ساعت اجرا شود
+    
     - cron: '0 */12 * * *'
-  workflow_dispatch:  # امکان اجرای دستی
+  workflow_dispatch:  
   push:
     branches: [ main ]
 
 permissions:
-  contents: write  # این خط اضافه شده
+  contents: write 
 
 jobs:
   update-stats:
@@ -19,28 +19,28 @@ jobs:
     - name: Checkout repository
       uses: actions/checkout@v3
       with:
-        persist-credentials: true  # این خط اضافه شده
+        persist-credentials: true  
 
     - name: Download GitHub Stats
       run: |
-        # ایجاد پوشه assets اگر وجود ندارد
+        
         mkdir -p assets
         
-        # دانلود آمار GitHub
+        
         curl -s -o assets/stats.svg "https://github-readme-stats.vercel.app/api?username=JavadTorabiKh&show_icons=true&theme=radical&include_all_commits=true"
         
-        # دانلود Streak Stats
+        
         curl -s -o assets/streak.svg "https://github-readme-streak-stats.herokuapp.com/?user=JavadTorabiKh&theme=radical"
         
-        # بررسی موفقیت‌آمیز بودن دانلود
+        
         if [ ! -s assets/stats.svg ]; then
           echo "Failed to download stats.svg"
-          exit 0  # خطا را نادیده بگیر
+          exit 0  
         fi
         
         if [ ! -s assets/streak.svg ]; then
           echo "Failed to download streak.svg"
-          exit 0  # خطا را نادیده بگیر
+          exit 0  
         fi
 
     - name: Commit and Push if changes
@@ -49,7 +49,7 @@ jobs:
         git config --local user.name "GitHub Action"
         git add assets/
         
-        # بررسی تغییرات
+        
         if git diff-index --quiet HEAD --; then
           echo "No changes to commit"
         else
