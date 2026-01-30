@@ -1,5 +1,4 @@
 # Hi there 👋
-
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=4000&pause=1000&color=0EA5E9&center=true&width=650&lines=Backend+Engineer;Go+%7C+Python+%7C+Rust;Blockchain+Enthusiast;Open+Source+Contributor;Concurrency+%26+Performance+Addict" />
 </div>
