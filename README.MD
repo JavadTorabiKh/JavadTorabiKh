@@ -80,12 +80,6 @@ func main() {
 <br>
 
 <a href="https://github.com/JavadTorabiKh">
-  <img height="195" src="https://raw.githubusercontent.com/JavadTorabiKh/JavadTorabiKh/main/assets/streak.svg"
-       alt="GitHub Streak" />
-</a>
-<br>
-
-<a href="https://github.com/JavadTorabiKh">
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=JavadTorabiKh&theme=github-dark&hide_border=true&cache_seconds=86400&disable_animation=true" />
 </a>
 
