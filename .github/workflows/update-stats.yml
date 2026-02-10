@@ -26,7 +26,7 @@ jobs:
         mkdir -p assets
         
         
-        curl -s -o assets/stats.svg "https://github-readme-stats.vercel.app/api?username=JavadTorabiKh&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true"
+        curl -s -o assets/stats.svg "https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JavadTorabiKh&theme=github_dark"
         
         
         curl -s -o assets/streak.svg "https://github-readme-streak-stats.herokuapp.com/?user=JavadTorabiKh&theme=radical"
