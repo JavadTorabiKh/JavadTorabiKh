@@ -73,12 +73,23 @@ func main() {
 
 <div align="center">
 
+<!-- ویجت کامل آمار با درجه‌بندی -->
 <a href="https://github.com/JavadTorabiKh">
-  <img height="195" src="https://raw.githubusercontent.com/JavadTorabiKh/JavadTorabiKh/main/assets/stats.svg"
-       alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JavadTorabiKh&show_icons=true&theme=github_dark&show_rank=true&hide=contribs&include_all_commits=true&count_private=true&line_height=28&cache_seconds=86400" 
+       alt="GitHub Stats with Rank" width="95%" />
 </a>
-<br>
 
+<br><br>
+
+<!-- کارت زبان‌های پراستفاده (جزییات بیشتر) -->
+<a href="https://github.com/JavadTorabiKh">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JavadTorabiKh&layout=compact&theme=github_dark&langs_count=10&cache_seconds=86400" 
+       alt="Top Languages" width="95%" />
+</a>
+
+<br><br>
+
+<!-- نمودار فعالیت (همان قبلی) -->
 <a href="https://github.com/JavadTorabiKh">
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=JavadTorabiKh&theme=github-dark&hide_border=true&cache_seconds=86400&disable_animation=true" />
 </a>
