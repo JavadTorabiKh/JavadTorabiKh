@@ -20,34 +20,19 @@ jobs:
       with:
         persist-credentials: true  
 
-    - name: Download GitHub Stats
+    - name: Download reliable stats
       run: |
-        
         mkdir -p assets
         
-        
+        # فقط از سرویس‌های پایدار استفاده می‌کنیم
         curl -s -o assets/stats.svg "https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JavadTorabiKh&theme=github_dark"
+        curl -s -o assets/trophy.svg "https://github-profile-trophy.vercel.app/?username=JavadTorabiKh&theme=github_dark&no-frame=true&row=2&column=4"
         
-        
-        curl -s -o assets/streak.svg "https://github-readme-streak-stats.herokuapp.com/?user=JavadTorabiKh&theme=radical"
-        
-        
-        if [ ! -s assets/stats.svg ]; then
-          echo "Failed to download stats.svg"
-          exit 0  
-        fi
-        
-        if [ ! -s assets/streak.svg ]; then
-          echo "Failed to download streak.svg"
-          exit 0  
-        fi
-
     - name: Commit and Push if changes
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
         git add assets/
-        
         
         if git diff-index --quiet HEAD --; then
           echo "No changes to commit"
