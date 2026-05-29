@@ -73,18 +73,18 @@ func main() {
 
 <div align="center">
 
-<!-- ویجت کامل آمار با درجه‌بندی -->
+<!-- کارت استتوس با درجه از سرویس جایگزین -->
 <a href="https://github.com/JavadTorabiKh">
-  <img src="https://github-readme-stats.vercel.app/api?username=JavadTorabiKh&show_icons=true&theme=github_dark&show_rank=true&hide=contribs&include_all_commits=true&count_private=true&line_height=28&cache_seconds=86400" 
-       alt="GitHub Stats with Rank" width="95%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JavadTorabiKh&theme=github_dark" 
+       alt="GitHub Stats Details" width="95%" />
 </a>
 
 <br><br>
 
-<!-- کارت زبان‌های پراستفاده (جزییات بیشتر) -->
+<!-- جام‌های دستاورد (Trophy) با درجه‌بندی - این یکی همیشه کار می‌کند -->
 <a href="https://github.com/JavadTorabiKh">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JavadTorabiKh&layout=compact&theme=github_dark&langs_count=10&cache_seconds=86400" 
-       alt="Top Languages" width="95%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=JavadTorabiKh&theme=github_dark&no-frame=true&row=2&column=4" 
+       alt="GitHub Trophy" width="95%" />
 </a>
 
 <br><br>
@@ -92,6 +92,14 @@ func main() {
 <!-- نمودار فعالیت (همان قبلی) -->
 <a href="https://github.com/JavadTorabiKh">
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=JavadTorabiKh&theme=github-dark&hide_border=true&cache_seconds=86400&disable_animation=true" />
+</a>
+
+<br><br>
+
+<!-- کارت ساده آمار که معمولاً کار می‌کند -->
+<a href="https://github.com/JavadTorabiKh">
+  <img src="https://github-stats-alpha.vercel.app/api?username=JavadTorabiKh&cc=0d1117&tc=58a6ff&ic=ffffff&bc=30363d" 
+       alt="Simple GitHub Stats" width="95%" />
 </a>
 
 </div>
