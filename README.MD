@@ -73,7 +73,7 @@ func main() {
 
 <div align="center">
 
-<!-- کارت استتوس با درجه از سرویس جایگزین -->
+<!-- کارت کامل آمار با رنک (از سرویس جایگزین پایدار) -->
 <a href="https://github.com/JavadTorabiKh">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JavadTorabiKh&theme=github_dark" 
        alt="GitHub Stats Details" width="95%" />
@@ -81,25 +81,17 @@ func main() {
 
 <br><br>
 
-<!-- جام‌های دستاورد (Trophy) با درجه‌بندی - این یکی همیشه کار می‌کند -->
+<!-- رنک شما به صورت جام‌های دستاورد (S, A, B, C) - این دقیقاً همان درجه‌بندی مورد نظر شماست -->
 <a href="https://github.com/JavadTorabiKh">
-  <img src="https://github-profile-trophy.vercel.app/?username=JavadTorabiKh&theme=github_dark&no-frame=true&row=2&column=4" 
-       alt="GitHub Trophy" width="95%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=JavadTorabiKh&theme=github_dark&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" 
+       alt="GitHub Trophy (Rank: S/A/B/C)" width="95%" />
 </a>
 
 <br><br>
 
-<!-- نمودار فعالیت (همان قبلی) -->
+<!-- نمودار فعالیت -->
 <a href="https://github.com/JavadTorabiKh">
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=JavadTorabiKh&theme=github-dark&hide_border=true&cache_seconds=86400&disable_animation=true" />
-</a>
-
-<br><br>
-
-<!-- کارت ساده آمار که معمولاً کار می‌کند -->
-<a href="https://github.com/JavadTorabiKh">
-  <img src="https://github-stats-alpha.vercel.app/api?username=JavadTorabiKh&cc=0d1117&tc=58a6ff&ic=ffffff&bc=30363d" 
-       alt="Simple GitHub Stats" width="95%" />
 </a>
 
 </div>
