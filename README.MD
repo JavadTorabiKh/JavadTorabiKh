@@ -74,15 +74,14 @@ func main() {
 <div align="center">
 
 <a href="https://github.com/JavadTorabiKh">
-  <img src="https://github-stats-alpha.vercel.app/api?username=JavadTorabiKh&cc=0d1117&tc=58a6ff&ic=ffffff&bc=30363d" 
+  <img src="assets/stats.svg" 
        alt="Simple GitHub Stats" width="95%" />
 </a>
 
 <br><br>
 
-<!-- نمودار فعالیت -->
 <a href="https://github.com/JavadTorabiKh">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=JavadTorabiKh&theme=github-dark&hide_border=true&cache_seconds=86400&disable_animation=true" />
+  <img width="95%" src="assets/trophy.svg" />
 </a>
 
 </div>
