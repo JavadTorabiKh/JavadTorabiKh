@@ -24,9 +24,8 @@ jobs:
       run: |
         mkdir -p assets
         
-        # فقط از سرویس‌های پایدار استفاده می‌کنیم
-        curl -s -o assets/stats.svg "https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JavadTorabiKh&theme=github_dark"
-        curl -s -o assets/trophy.svg "https://github-profile-trophy.vercel.app/?username=JavadTorabiKh&theme=github_dark&no-frame=true&row=2&column=4"
+        curl -s -o assets/stats.svg "https://github-stats-alpha.vercel.app/api?username=JavadTorabiKh&cc=0d1117&tc=58a6ff&ic=ffffff&bc=30363d"
+        curl -s -o assets/trophy.svg "https://github-readme-activity-graph.vercel.app/graph?username=JavadTorabiKh&theme=github-dark&hide_border=true&cache_seconds=86400&disable_animation=true"
         
     - name: Commit and Push if changes
       run: |
