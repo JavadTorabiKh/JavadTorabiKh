@@ -80,7 +80,7 @@
         </svg>
 
         <text x="55" y="123" class="followers">Followers:</text>
-        <text x="114" y="124" style="font-weight: 700" class="followers">858</text>
+        <text x="114" y="124" style="font-weight: 700" class="followers">862</text>
 
         </g>
 
@@ -94,7 +94,7 @@
                     </svg>
 
                     <text class="text" x="25" y="12.5">Total Repo:</text>
-                    <text class="text" style="font-weight: 700" x="150" y="12.5">18</text>
+                    <text class="text" style="font-weight: 700" x="150" y="12.5">17</text>
                 </g>
             </g>
 
@@ -107,7 +107,7 @@
                     </svg>
 
                     <text class="text" x="25" y="12.5">Star's Count:</text>
-                    <text class="text" style="font-weight: 700" x="150" y="12.5">158</text>
+                    <text class="text" style="font-weight: 700" x="150" y="12.5">157</text>
                 </g>
             </g>
 
@@ -133,7 +133,7 @@
                     </svg>
 
                     <text class="text" x="25" y="12.5">Contributions:</text>
-                    <text class="text" style="font-weight: 700" x="150" y="12.5">665</text>
+                    <text class="text" style="font-weight: 700" x="150" y="12.5">669</text>
                 </g>
             </g>
 
