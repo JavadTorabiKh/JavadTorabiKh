@@ -80,7 +80,7 @@
         </svg>
 
         <text x="55" y="123" class="followers">Followers:</text>
-        <text x="114" y="124" style="font-weight: 700" class="followers">850</text>
+        <text x="114" y="124" style="font-weight: 700" class="followers">849</text>
 
         </g>
 
@@ -133,7 +133,7 @@
                     </svg>
 
                     <text class="text" x="25" y="12.5">Contributions:</text>
-                    <text class="text" style="font-weight: 700" x="150" y="12.5">557</text>
+                    <text class="text" style="font-weight: 700" x="150" y="12.5">559</text>
                 </g>
             </g>
 
