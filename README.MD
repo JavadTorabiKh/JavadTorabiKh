@@ -30,8 +30,7 @@ func main() {
         Currently: "Building high-performance services",
         Passion:   "Scalable systems • Blockchain • Open Source",
     }
-    
-    // Writing efficient concurrent code
+   
 }
 ```
 
