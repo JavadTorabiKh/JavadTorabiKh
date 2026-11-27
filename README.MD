@@ -3,37 +3,43 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=4000&pause=1000&color=0EA5E9&center=true&width=650&lines=Backend+Engineer;Go+%7C+Python+%7C+Rust;Blockchain+Enthusiast;Open+Source+Contributor;Concurrency+%26+Performance+Addict" />
 </div>
 
-
 ### 🚀 About Me
-```go
-package main
+```python
+import json
+from dataclasses import dataclass, asdict, field
+from typing import List
 
-type Developer struct {
-    Name         string   `json:"name"`
-    Pronouns     string   `json:"pronouns"`
-    Role         string   `json:"role"`
-    Location     string   `json:"location"`
-    Education    string   `json:"education"`
-    Languages    []string `json:"languages"`
-    Currently    string   `json:"learning"`
-    Passion      string   `json:"passion"`
-}
 
-func main() {
-    javad := Developer{
-        Name:      "Javad Torabi",
-        Pronouns:  "He/Him",
-        Role:      "Backend Engineer",
-        Location:  "Iran",
-        Education: "MSc in Information Technology",
-        Languages: []string{"Go", "Python", "Rust", "JavaScript/TypeScript"},
-        Currently: "Building high-performance services",
-        Passion:   "Scalable systems • Blockchain • Open Source",
-    }
-   
-}
+@dataclass
+class Developer:
+    name: str
+    pronouns: str
+    role: str
+    location: str
+    education: str
+    languages: List[str] = field(default_factory=list)
+    currently: str = ""
+    passion: str = ""
+
+
+def main() -> None:
+    javad = Developer(
+        name="Javad Torabi",
+        pronouns="He/Him",
+        role="Backend Engineer",
+        location="Iran",
+        education="MSc in Information Technology",
+        languages=["Go", "Python", "Rust", "JavaScript/TypeScript"],
+        currently="Building high-performance services",
+        passion="Scalable systems • Blockchain • Open Source",
+    )
+
+    print(json.dumps(asdict(javad), indent=2, ensure_ascii=False))
+
+
+if __name__ == "__main__":
+    main()
 ```
-
 
 ---
 
